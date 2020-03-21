@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/display_tools.h
+
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/main.cpp
+iostream
+-
+math_tools.h
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/math_tools.h
+display_tools.h
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/display_tools.h
+
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/math_tools.h
+vector
+-
+math.h
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/math.h
+stdlib.h
+C:/Users/dese2/Documents/UCA/SIMU/Tarea1/stdlib.h
+
